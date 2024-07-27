@@ -264,7 +264,7 @@ p code, li code{
 }
 
 #section4 li::before{
-    content: 
+    content: "";
 }
 
 #section5 p:last-of-type{
